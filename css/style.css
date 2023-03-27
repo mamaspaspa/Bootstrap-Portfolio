@@ -1,0 +1,13 @@
+/* work cards */
+.content {
+    padding: 50px;
+  }
+  .sectionHeading {
+    text-align: center;
+  }
+  .workCards {
+    padding: 0px 30px 30px 30px;
+  }
+  .cardContainer {
+    text-align: center;
+  }
